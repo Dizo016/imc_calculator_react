@@ -1,10 +1,11 @@
 import './App.css'
+import ImcCalc from './components/ImcCalc'
 
 function App() {
 
   return (
-    <div className='Container'>
-      <p>IMC Calculator</p>
+    <div className='container'>
+      <ImcCalc />
     </div>
     
   )
