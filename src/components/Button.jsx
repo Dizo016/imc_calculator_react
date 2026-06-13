@@ -1,4 +1,3 @@
-import React, { act } from 'react'
 import './Button.css'
 
 const Button = ({ id, text, action }) => {
